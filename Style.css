@@ -1,0 +1,66 @@
+div {
+    text-align: center;
+    padding: 100px;
+    margin: 150px 250px 50px;
+    background-color: aqua;
+    background-image: url("Cooldude.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    border-style: solid;
+    border-radius: 25px;
+    background-attachment: fixed;
+}
+
+#goodboy {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-color: green;
+    padding: 10px;
+    margin: 0px  260px;
+    border-radius: 25px;
+}
+
+h1{
+    
+    border-radius: 15px;
+    background-color: white;
+    margin: 30px 330px;
+    padding: 8px;
+    font-family: Impact, Charcoal, sans-serif;
+    
+
+}
+
+footer{
+    text-align: center;
+    border-style: solid;
+    margin: 0px 600px;
+    padding: 5px;
+    border-radius: 5px
+}
+
+
+button{
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 17px;
+    background-color:purple;
+    border-style: solid;
+    border-spacing: 20px;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(76, 175, 142);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+body {
+    background: linear-gradient(320deg, #2ecc71 15%, #2980b9 85%) fixed;
+  }
+
